@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htw128 , you can call me Oliver.
 - 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning Wwise and Shell
+- 🌱 I’m currently learning Wwise and C#
 - 📫 How to reach me: htw128@live.com
 
 <!---
